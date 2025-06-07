@@ -59,7 +59,3 @@ body {
 ::-webkit-scrollbar-track {           
     background-color: var(--bg-color);
 }
-
-.search {
-  display: none !important;
-}
