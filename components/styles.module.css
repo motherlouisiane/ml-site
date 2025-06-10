@@ -182,7 +182,7 @@
 
 @media (max-width: 1360px) {
   .githubCorner {
-    display: none;
+    display: none !important;
   }
 }
 
