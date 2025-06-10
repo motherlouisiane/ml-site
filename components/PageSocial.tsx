@@ -24,7 +24,8 @@ const socialLinks: SocialLink[] = [
     )
   },
 
-  config.github && {
+    /*
+    config.github && {
     name: 'github',
     href: `https://github.com/${config.github}`,
     title: `GitHub @${config.github}`,
@@ -34,7 +35,8 @@ const socialLinks: SocialLink[] = [
       </svg>
     )
   },
-
+ */
+  
   config.linkedin && {
     name: 'linkedin',
     href: `https://www.linkedin.com/in/${config.linkedin}`,
