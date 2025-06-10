@@ -1,6 +1,5 @@
 import styles from './styles.module.css'
 
-/*
 export function GitHubShareButton() {
   return (
     <a
@@ -45,4 +44,3 @@ export function GitHubShareButton() {
     </a>
   )
 }
-*/
