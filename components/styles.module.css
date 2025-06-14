@@ -180,14 +180,6 @@
   background: #e5f2e8;
 }
 
-   .githubCorner {
-  display: none !important;
-}
-
-.githubCorner:hover .octoArm {
-  animation: octocat-wave 560ms ease-in-out;
-}
-
 @keyframes octocat-wave {
   0%,
   100% {
