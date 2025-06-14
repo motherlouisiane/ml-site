@@ -1,7 +1,3 @@
-:global(.githubCorner) {
-  display: none !important;
-}
-
 @keyframes spinner {
   to {
     transform: rotate(360deg);
